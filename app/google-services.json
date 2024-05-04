@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "976505740022",
+    "project_id": "satek-apps",
+    "storage_bucket": "satek-apps.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:976505740022:android:6823e943c259b60921aad7",
+        "android_client_info": {
+          "package_name": "com.satek.soft"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "976505740022-o2aldipjjb4hmb7fd9ies2978ubrq5de.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDT2IAUBX9nrgoOZEuOxICgzwvc3UE8pNM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "976505740022-o2aldipjjb4hmb7fd9ies2978ubrq5de.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

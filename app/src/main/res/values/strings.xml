@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Satek - Quản lý tích điểm</string>
+    <string name="text_not_network">Không có kết nối mạng</string>
+    <string name="nc_title">Thông báo mặc định</string>
+    <string name="nc_description">Thông báo mặc định của ứng dụng</string>
+    <string name="not_receive_fcm_token">Không nhận được mã thông báo</string>
+    <string name="error_unable_get_image_info">Lỗi. Không lấy được thông tin hình ảnh</string>
+    <string name="error_scheme_not_accept">Scheme không được chấp nhận</string>
+</resources>
